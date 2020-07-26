@@ -1,3 +1,5 @@
-# Alarm
+# alarm
+指定した場所の気象庁の警報情報を取得する  
 
-Get warning information for a specific location from the Japan Meteorological Agency.
+▼詳しくはこちら  
+https://qiita.com/rntkym/items/d7daecb0d488d7211140
